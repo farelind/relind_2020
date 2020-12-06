@@ -61,9 +61,9 @@ def jalan(z):
 #########LOGO#########
 logo = """
 \033[1;97m ╔══════════════♤═♤■♤═♤════════════════╗
-\033[1;97m                 Farel_Ind Gans                                      
-             SumateraUtaraCyberTeam\033[1;97m.                              
-\033[1;97m  Team : Ind Guard Neverdie                                                          ║    
+\033[1;97m              Farel_Ind Gans                                      
+            SumateraUtaraCyberTeam\033[1;97m.                              
+\033[1;97m  Team : Ind Guard Neverdie                                                        ║    
 \033[1;97m ╚═════════════════════════════════════╝
 \033[1;97m ╔═════════════════════════════════════╗
 \033[1;97m ║ Author : Farel_Ind                                  
