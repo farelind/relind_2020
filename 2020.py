@@ -61,13 +61,13 @@ def jalan(z):
 #########LOGO#########
 logo = """
 \033[1;97m ╔══════════════♤═♤■♤═♤════════════════╗
-\033[1;97m  Farel_Ind Gans.                                     
-             KarawangCyberTeam\033[1;97m.                              
-\033[1;97m  Team : Bacot Broterhood Neverdie                                                          ║    
+\033[1;97m                 Farel_Ind Gans                                      
+             SumateraUtaraCyberTeam\033[1;97m.                              
+\033[1;97m  Team : Ind Guard Neverdie                                                          ║    
 \033[1;97m ╚═════════════════════════════════════╝
 \033[1;97m ╔═════════════════════════════════════╗
 \033[1;97m ║ Author : Farel_Ind                                  
-\033[1;97m ║ Github : https://github.com/Man-hemker72.                
+\033[1;97m ║ Github : https://github.com/farelind.                
 \033[1;97m ╚═════════════════════════════════════╝ """
 
 def tik():
