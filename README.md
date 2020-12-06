@@ -24,3 +24,9 @@ ls
 
 
 python2 2020.py
+
+
+# contack
+
+
+[WhatsApp](https://wa.me/628994182569)
